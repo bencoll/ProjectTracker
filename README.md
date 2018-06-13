@@ -1,4 +1,4 @@
-# IssueTracker
+# ProjectTracker
 Personal Task Tracker:
 Task-based issue tracking system.
 
